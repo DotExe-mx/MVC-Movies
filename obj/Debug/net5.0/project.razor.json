@@ -15658,6 +15658,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\dotexemx\\Google Drive\\Semestres (trabajos, proyectos, etc)\\10mo Semestre (Ultimo)\\PROGRAMACION WEB II\\ASP NET Core MVC\\MVC-Movies-main\\Views\\Enrutado\\About.cshtml",
+      "TargetPath": "Views\\Enrutado\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\dotexemx\\Google Drive\\Semestres (trabajos, proyectos, etc)\\10mo Semestre (Ultimo)\\PROGRAMACION WEB II\\ASP NET Core MVC\\MVC-Movies-main\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"

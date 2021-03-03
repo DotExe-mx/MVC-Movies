@@ -4,24 +4,23 @@ using System.Text.Encodings.Web;
 
 namespace MvcMovie.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
+   /* [Route("api/[controller]")]
+    [ApiController]*/
+    [Route("Enrutado")]
     public class EnrutadoController : Controller
     {
-        //Nuevo enrutamiento de atributos a la pagina index.
-        //[Route("/Enrutado/Tocayo")]
-
-        [HttpGet]
+         //[HttpGet]
+        [Route("")]
+        [Route("Index")]
+        [Route("/")]
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Welcome(string name, int numTimes = 1)
+        [Route("About")]
+        public IActionResult About()
         {
-            ViewData["Message"] = "Hello " + name;
-            ViewData["NumTimes"] = numTimes;
-
             return View();
         }
     }

@@ -349,3 +349,4 @@ C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestr
 C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\ASP NET Core MVC\MVC-Movies-main\obj\Debug\net5.0\ref\MvcMovie.dll
 C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\ASP NET Core MVC\MVC-Movies-main\obj\Debug\net5.0\MvcMovie.pdb
 C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\ASP NET Core MVC\MVC-Movies-main\obj\Debug\net5.0\MvcMovie.genruntimeconfig.cache
+C:\Users\dotexemx\Google Drive\Semestres (trabajos, proyectos, etc)\10mo Semestre (Ultimo)\PROGRAMACION WEB II\ASP NET Core MVC\MVC-Movies-main\obj\Debug\net5.0\Razor\Views\Enrutado\About.cshtml.g.cs
