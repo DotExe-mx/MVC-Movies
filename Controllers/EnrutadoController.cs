@@ -6,7 +6,8 @@ namespace MvcMovie.Controllers
 {
     public class EnrutadoController : Controller
     {
-        //[Route("/Enrutado/Tocayo")]
+        //Nuevo enrutamiento de atributos a la pagina index.
+        [Route("/Enrutado/Tocayo")]
         public IActionResult Index()
         {
             return View();
