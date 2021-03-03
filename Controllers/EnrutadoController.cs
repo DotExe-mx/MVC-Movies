@@ -4,10 +4,14 @@ using System.Text.Encodings.Web;
 
 namespace MvcMovie.Controllers
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class EnrutadoController : Controller
     {
         //Nuevo enrutamiento de atributos a la pagina index.
-        [Route("/Enrutado/Tocayo")]
+        //[Route("/Enrutado/Tocayo")]
+
+        [HttpGet]
         public IActionResult Index()
         {
             return View();
